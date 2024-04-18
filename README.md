@@ -1,6 +1,7 @@
-# <p align="center"> Exploratory-Data-Analysis-Visualisation-on-Airbnb-Dataset </p>
+# <p align="left"> *Exploratory-Data-Analysis-Visualisation-on-Airbnb-Dataset* </p>
 
-# <p align="center"> ![image](https://github.com/manojgaikwad13/Exploratory-Data-Analysis-Visualisation-on-Airbnb-Dataset/assets/96239993/f83e3c21-e5b2-48d1-ad71-9a3fb51477a5) 
+# <p align="center"> ![image](https://github.com/AhamedSahil/Exploratory-Data-analysis/assets/164605797/4749063e-6408-4e68-a114-af723f49f520)
+ 
  </p>
 
 ## Overview
